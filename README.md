@@ -1,4 +1,4 @@
-Se trata de un sistema que emplea varias herramientas y  sistemas de información para el análisis de datos en tiempo real.
+Se trata de un sistema que emplea varias herramientas y sistemas de información para el análisis de datos en tiempo real.
 
 Dichas herramientas van a ser principalmente:
 - Python como lenguaje principal para la simulación y empleo de lógicas
